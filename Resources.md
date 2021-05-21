@@ -10,10 +10,31 @@
 1. [Signal:Secure Messaging App](https://signal.org/)
 2. [WhatsApp](https://www.whatsapp.com/?lang=en)
 ---
+### Password Managers
+1. [Last Pass](https://www.lastpass.com/)
+2. [Bitwarden](https://bitwarden.com/)
+---
 ### Online Learning
 1. [EdX](https;//www.edx.org)
 2. [Coursera](https://www.coursera.org)
 3. [Udemy](https://udemy.com)
 4. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
-
+---
+### Computer suggestions
+1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
+2. [Free Geek](https://www.ebay.com/str/freegeekbasicsstore)
+3. [Dell Refurbished Computers](https://www.dellrefurbished.com/)
+4. [Apple MacOS](https://www.apple.com/shop/refurbished/mac)
+5. [Chromebook](https://www.google.com/chromebook/)
+6. [System76](https://system76.com)
+----
+### Browser suggestions
+1. [Chrome Browser](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=en)
+2. [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+3. [Opera](https://www.opera.com/)
+4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+----
+### Ad blocking
+1. [AdBlock](https://getadblock.com/)
+2. [Ghostery](https://www.ghostery.com/)
 
