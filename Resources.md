@@ -35,8 +35,9 @@
 4. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 ---
 ### Free Software Suggestions
-1.[Ninite](https://ninite.com) -- A collection of dozens of free and open source software for Windows 10 computers
-2. [LibreOffice](https://www.libreoffice.org/)
+
+1. [Ninite](https://ninite.com) -- A collection of dozens of free and open source software for Windows 10 computers
+2. [LibreOffice](https://www.libreoffice.org/) 
 3. [Google Apps](https://workspace.google.com/)
 ----
 ### Ad blocking
