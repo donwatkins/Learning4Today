@@ -19,7 +19,7 @@
 3. [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
 4. [Python for Everyone](https://www.py4e.com/lessons) - Dr. Charles Severance, University of Michigan
 5. [Coursera](https://www.coursera.org) - Free and online learning resources for everyone
-6. [Saylor Academy](https://www.saylor.org/
+6. [Saylor Academy](https://www.saylor.org/)
 7. [Udemy](https://udemy.com)
 8. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
 9. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
