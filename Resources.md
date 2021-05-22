@@ -26,6 +26,7 @@
 10. [Khan Academy Life Skills](https://www.khanacademy.org/college-careers-more)
 11. [OER Commons](https://www.oercommons.org/)-a public digital library of open educational resources
 12. [SkillShare](https://www.skillshare.com/) - free access at [Olean Public Library](https://www.oleanlibrary.org/)
+13. [Open Culture](https://www.openculture.com/freeonlinecourses) - 1700 free courses from major universities
 
 ---
 ### Computer suggestions
