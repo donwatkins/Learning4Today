@@ -15,10 +15,11 @@
 ---
 ### Online Learning
 1. [EdX](https;//www.edx.org)
-2. [Coursera](https://www.coursera.org)
-3. [Udemy](https://udemy.com)
-4. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
-5. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
+2. [Improve Your Writing Skills](https://www.edx.org/learn/writing) - Essay writing, grammar, business writing and more
+3. [Coursera](https://www.coursera.org)
+4. [Udemy](https://udemy.com)
+5. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
+6. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
 7. [Khan Academy Life Skills](https://www.khanacademy.org/college-careers-more)
 ---
 ### Computer suggestions
