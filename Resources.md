@@ -19,7 +19,7 @@
 3. [Udemy](https://udemy.com)
 4. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
 5. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
-7. [Khan Academy](https://www.khanacademy.org/)
+7. [Khan Academy Life Skills](https://www.khanacademy.org/college-careers-more)
 ---
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
