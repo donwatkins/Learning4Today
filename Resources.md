@@ -16,11 +16,13 @@
 ### Online Learning
 1. [EdX](https;//www.edx.org)
 2. [Improve Your Writing Skills](https://www.edx.org/learn/writing) - Essay writing, grammar, business writing and more
-3. [Coursera](https://www.coursera.org)
-4. [Udemy](https://udemy.com)
-5. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
-6. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
-7. [Khan Academy Life Skills](https://www.khanacademy.org/college-careers-more)
+3. [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
+4. [Python for Everyone](https://www.py4e.com/lessons) - Dr. Charles Severance, University of Michigan
+5. [Coursera](https://www.coursera.org)
+6. [Udemy](https://udemy.com)
+7. [MIT: Opencourseware](http://ocw.mit.edu/index.htm)
+8. [GCF Global Technology Tutorials](https://edu.gcfglobal.org/en/subjects/tech/)
+9. [Khan Academy Life Skills](https://www.khanacademy.org/college-careers-more)
 ---
 ### Computer suggestions
 1. [Dell Computer](https://www.dell.com/learn/us/en/22/campaigns/outlet)
